@@ -18,7 +18,6 @@ Download the .exe and run.
 
 * **Cian Lawlor** - *Full Creation* - [Website](https://cianlawlor.dev/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Acknowledgments
 
